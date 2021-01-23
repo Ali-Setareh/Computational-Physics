@@ -1,2 +1,2 @@
 # Computational-Physics
-This is the repository for my computational physics project
+This is the repository for my computational physics projects
